@@ -15,6 +15,12 @@
  */
 
 ?>
+<div class="above-header">
+    <a href="/#mainpage-form">ПОДКЛЮЧИТЬСЯ</a>
+    <p>г. Рудный, ул. Гагарина, 11.<br><span>Часы работы: 08:00 - 19:00</span></p>
+    <p><span>Подключение:</span><br>8 (71431) 55-111</p>
+    <p><span>Техподдержка:</span><br>8 (71431) 47-300</p>
+</div>
 <div class="main-header-bar-wrap">
 	<div <?php echo astra_attr( 'main-header-bar' ); ?>>
 		<?php astra_main_header_bar_top(); ?>
