@@ -34,6 +34,9 @@ function watchTask(){
         scssTask()
         browserSync.reload
     })
+    watch('./../../**/*.php').on('change', function(){
+        browserSync.reload
+    })
 }
 
 exports.default = watchTask
