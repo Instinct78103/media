@@ -17,5 +17,6 @@
     "gulp-sourcemaps": "^2.6.5",
     "postcss": "^7.0.26"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "browserslist": ["last 2 versions"]
 }
